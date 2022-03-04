@@ -1,0 +1,17 @@
+{
+  "name": "syl-element-plus-component",
+  "version": "1.0.1",
+  "main": "index.umd.js",
+  "module": "index.es.js",
+  "types": "index.d.ts",
+  "author": {
+    "name": "songyanglin"
+  },
+  "keywords": [
+    "elementPlus",
+    "ts",
+    "封装组件",
+    "二次封装组件",
+    "vue-Components"
+  ]
+}

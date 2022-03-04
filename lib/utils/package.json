@@ -1,0 +1,9 @@
+
+    {
+      "name": "utils",
+      "main": "index.umd.js",
+      "module": "index.es.js",
+      "style": "styles.css",
+      "types": "index.d.ts"
+    }
+  
